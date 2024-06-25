@@ -1,0 +1,24 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/container/brewing_guide_left.png",
+			"ascent": 13,
+			"height": 166,
+			"chars": [
+				"\ueff1"
+			],
+			"x": 1000
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:gui/container/brewing_guide_right.png",
+			"ascent": 13,
+			"height": 166,
+			"chars": [
+				"\ueff2"
+			],
+			"x": 50 
+		}
+	]
+}
