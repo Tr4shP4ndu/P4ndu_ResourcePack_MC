@@ -1,6 +1,22 @@
 {
-  "parent": "minecraft:block/button_pressed",
-  "textures": {
-    "texture": "minecraft:block/acacia_planks"
-  }
+	"__comment": "Designed by JermsyBoy with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/acacia_button",
+		"texture": "block/acacia_button"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 5, 0, 5 ],
+			"to": [ 11, 1, 11 ],
+			"faces": {
+				"down": { "uv": [ 5, 5, 11, 11 ], "texture": "#texture", "cullface": "down" },
+				"up": { "uv": [ 5, 11, 11, 5 ], "texture": "#texture" },
+				"north": { "uv": [ 5, 11, 11, 12 ], "texture": "#texture" },
+				"south": { "uv": [ 5, 11, 11, 12 ], "texture": "#texture" },
+				"west": { "uv": [ 5, 11, 11, 12 ], "texture": "#texture" },
+				"east": { "uv": [ 5, 11, 11, 12 ], "texture": "#texture" }
+			}
+		}
+	]
 }

@@ -1,0 +1,530 @@
+[
+    {
+        "name": "mine\\blue_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\blue_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            0,
+            0
+        ]
+    },
+    {
+        "name": "mine\\blue_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\blue_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            182,
+            0
+        ]
+    },
+    {
+        "name": "new\\blue_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\blue_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            364,
+            0
+        ]
+    },
+    {
+        "name": "new\\blue_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\blue_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            546,
+            0
+        ]
+    },
+    {
+        "name": "mine\\green_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\green_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            728,
+            0
+        ]
+    },
+    {
+        "name": "mine\\green_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\green_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            910,
+            0
+        ]
+    },
+    {
+        "name": "new\\green_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\green_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1092,
+            0
+        ]
+    },
+    {
+        "name": "new\\green_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\green_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1274,
+            0
+        ]
+    },
+    {
+        "name": "mine\\notched_10_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\notched_10_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1456,
+            0
+        ]
+    },
+    {
+        "name": "mine\\notched_10_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\notched_10_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1638,
+            0
+        ]
+    },
+    {
+        "name": "new\\notched_10_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\notched_10_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1820,
+            0
+        ]
+    },
+    {
+        "name": "new\\notched_10_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\notched_10_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            2002,
+            0
+        ]
+    },
+    {
+        "name": "mine\\notched_12_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\notched_12_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            0,
+            5
+        ]
+    },
+    {
+        "name": "mine\\notched_12_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\notched_12_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            182,
+            5
+        ]
+    },
+    {
+        "name": "new\\notched_12_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\notched_12_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            364,
+            5
+        ]
+    },
+    {
+        "name": "new\\notched_12_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\notched_12_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            546,
+            5
+        ]
+    },
+    {
+        "name": "mine\\notched_20_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\notched_20_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            728,
+            5
+        ]
+    },
+    {
+        "name": "mine\\notched_20_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\notched_20_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            910,
+            5
+        ]
+    },
+    {
+        "name": "new\\notched_20_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\notched_20_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1092,
+            5
+        ]
+    },
+    {
+        "name": "new\\notched_20_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\notched_20_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1274,
+            5
+        ]
+    },
+    {
+        "name": "mine\\notched_6_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\notched_6_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1456,
+            5
+        ]
+    },
+    {
+        "name": "mine\\notched_6_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\notched_6_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1638,
+            5
+        ]
+    },
+    {
+        "name": "new\\notched_6_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\notched_6_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1820,
+            5
+        ]
+    },
+    {
+        "name": "new\\notched_6_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\notched_6_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            2002,
+            5
+        ]
+    },
+    {
+        "name": "mine\\pink_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\pink_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            0,
+            10
+        ]
+    },
+    {
+        "name": "mine\\pink_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\pink_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            182,
+            10
+        ]
+    },
+    {
+        "name": "new\\pink_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\pink_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            364,
+            10
+        ]
+    },
+    {
+        "name": "new\\pink_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\pink_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            546,
+            10
+        ]
+    },
+    {
+        "name": "mine\\purple_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\purple_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            728,
+            10
+        ]
+    },
+    {
+        "name": "mine\\purple_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\purple_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            910,
+            10
+        ]
+    },
+    {
+        "name": "new\\purple_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\purple_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1092,
+            10
+        ]
+    },
+    {
+        "name": "new\\purple_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\purple_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1274,
+            10
+        ]
+    },
+    {
+        "name": "mine\\red_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\red_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1456,
+            10
+        ]
+    },
+    {
+        "name": "mine\\red_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\red_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1638,
+            10
+        ]
+    },
+    {
+        "name": "new\\red_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\red_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1820,
+            10
+        ]
+    },
+    {
+        "name": "new\\red_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\red_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            2002,
+            10
+        ]
+    },
+    {
+        "name": "mine\\white_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\white_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            0,
+            15
+        ]
+    },
+    {
+        "name": "mine\\white_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\white_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            182,
+            15
+        ]
+    },
+    {
+        "name": "new\\white_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\white_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            364,
+            15
+        ]
+    },
+    {
+        "name": "new\\white_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\white_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            546,
+            15
+        ]
+    },
+    {
+        "name": "mine\\yellow_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\yellow_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            728,
+            15
+        ]
+    },
+    {
+        "name": "mine\\yellow_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\mine\\yellow_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            910,
+            15
+        ]
+    },
+    {
+        "name": "new\\yellow_background.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\yellow_background.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1092,
+            15
+        ]
+    },
+    {
+        "name": "new\\yellow_progress.png",
+        "file_path": "C:\\Users\\filip\\AppData\\Roaming\\com.modrinth.theseus\\profiles\\P4nduMC[1.20.6]_v2\\resourcepacks\\P4ndu_ResourcePack_MC\\assets\\minecraft\\textures\\gui\\sprites\\boss_bar\\new\\yellow_progress.png",
+        "dimensions": [
+            182,
+            5
+        ],
+        "position": [
+            1274,
+            15
+        ]
+    }
+]

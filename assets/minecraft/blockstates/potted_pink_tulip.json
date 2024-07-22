@@ -1,7 +1,10 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/potted_pink_tulip"
+    "variants": {
+        "": [
+		{ "model": "block/pink_tulip/potted_pink_tulip" },
+		{ "model": "block/pink_tulip/potted_pink_tulip_22" },
+		{ "model": "block/pink_tulip/potted_pink_tulip_45" },
+		{ "model": "block/pink_tulip/potted_pink_tulip_-22" }
+		]
     }
-  }
 }

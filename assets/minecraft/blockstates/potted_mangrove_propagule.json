@@ -1,7 +1,10 @@
 {
-  "variants": {
-    "": {
-      "model": "minecraft:block/potted_mangrove_propagule"
+    "variants": {
+        "": [
+		{ "model": "block/mangrove_propagule/potted_mangrove_propagule" },
+		{ "model": "block/mangrove_propagule/potted_mangrove_propagule_22" },
+		{ "model": "block/mangrove_propagule/potted_mangrove_propagule_45" },
+		{ "model": "block/mangrove_propagule/potted_mangrove_propagule_-22" }
+		]
     }
-  }
 }
